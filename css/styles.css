@@ -1,0 +1,171 @@
+/* Your Website Styles */
+h1{
+  color: #f9d9ff;
+  background: #629682;
+  background: center;
+  border-radius: 15px;
+  margin: 30px 0 10px 0;
+  padding: 20px; 
+  font-family: 'Lato', sans-serif;
+  font-size: 2.8em;
+  text-align: center;
+  opacity: 100%;
+  font: 400 100px/1.3 'Arizonia', Helvetica, sans-serif;
+ 
+  text-shadow: 4px 4px 0px rgba(0,0,0,0.1); 
+
+}
+
+
+.me {
+  float:center;
+  max-width: 97%;
+  border-radius: 30px;
+  padding: 0;
+  margin-top: 25px;
+  border-style: solid;
+  border-width: 10px;
+  border-color: #903f75;
+  margin-top: -1px;
+}
+
+h2  {
+  color: #e8aaff;
+  font-family: 'Futura', serif;
+  text-align: 0px ;
+  padding: 0px 50px;
+}
+
+h2  {
+  color: #e8aaff;
+  font-family: 'Futura', serif;
+  text-align: 0px ;
+  padding: 0px 50px;
+}
+
+
+blockquote  {
+  color: black;
+  font-size: 2em;
+  font-family: 'Cedarville Cursive', cursive;
+  text-align: center;
+
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #f9d9ff;
+  font-family: 'Pontano Sans', sans-serif;
+}
+
+.links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9em;
+
+}
+
+.links a {
+  text-align: center;
+  display: block;
+  min-height: 20px;
+  background-repeat: no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 50px;
+
+  
+}
+
+
+.links {
+  position: relative;
+  margin: -15px;
+  text-align: center;
+}
+  
+}
+
+.links li a {
+  list-style-position: inside;
+}
+
+
+.nav, 
+.nav li{
+  list-style: inline;
+  display: inline;
+  padding: 0 20px 0 0;
+}
+
+
+a {
+  text-decoration: none;
+  color: #e8aaff;
+  font-family: 'Futura', serif;
+  text-align: center;
+}
+
+
+.nav li{
+  margin-right: 15px;
+
+}
+
+.nav {
+  margin-left: 15px;
+}
+
+/* Show Grid */
+.showgrid {
+  background: url("../img/grid-bg.png") repeat-y;
+}
+
+.skillset {
+  text-align: left;
+
+}
+
+.grid_12{
+  text-align: center;
+}
+
+
+.adobe {
+    text-decoration: none;
+  color: #e8aaff;
+  font-family: 'Futura', serif;
+  text-align: left;
+  margin: 20px;
+  padding: 0px 40px 0px 40px;
+}
+
+a{ text-decoration: none;
+}
+a:link, a:visited{
+  color: #f9d9ff;
+}
+a:hover {
+  color: green;
+}
+
+
+foo {   
+    float: left;
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgba(0,0,0,.2);
+}
+h3{
+  text-align: center;
+  font-size: 1em;
+  background-image: center;
+}
